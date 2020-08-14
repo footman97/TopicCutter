@@ -1,0 +1,63 @@
+2020-06-29 05:51:12,686 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-06-29 08:38:26,144 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-06-29 08:38:26,563 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-06-29 08:38:26,564 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-06-29 08:38:26,791 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-06-29 09:02:18,200 - ***************model Info***************
+2020-06-29 09:02:18,201 - model name: ../models/naiveBERT_biLSTM_en_disease_model.pt
+2020-06-29 09:02:18,201 - epoches: 10
+2020-06-29 09:02:18,201 - hidden dimensions: 128
+2020-06-29 09:02:18,201 - layers: 1
+2020-06-29 09:02:18,201 - dropout: 0.25
+2020-06-29 09:02:18,201 - batch size: 5
+2020-06-29 09:02:18,201 - ****************************************
+2020-06-29 09:02:23,738 - The model has 926,748 trainable parameters
+2020-06-29 09:02:45,806 - Epoch: 01 | Epoch Time: 0m 22s
+2020-06-29 09:02:45,806 - 	Train Loss: 1.882 | Train micro-f1: 45.07% | Train mAP: 43.88%
+2020-06-29 09:02:45,806 - 	Val.  Loss: 1.610 | Val.  micro-f1: 52.92% | Val.  mAP: 54.57%
+2020-06-29 09:03:06,901 - Epoch: 02 | Epoch Time: 0m 21s
+2020-06-29 09:03:06,902 - 	Train Loss: 1.544 | Train micro-f1: 53.32% | Train mAP: 53.25%
+2020-06-29 09:03:06,902 - 	Val.  Loss: 1.543 | Val.  micro-f1: 54.71% | Val.  mAP: 55.93%
+2020-06-29 09:03:28,787 - Epoch: 03 | Epoch Time: 0m 21s
+2020-06-29 09:03:28,787 - 	Train Loss: 1.428 | Train micro-f1: 56.27% | Train mAP: 56.30%
+2020-06-29 09:03:28,787 - 	Val.  Loss: 1.504 | Val.  micro-f1: 54.78% | Val.  mAP: 57.97%
+2020-06-29 09:03:53,003 - Epoch: 04 | Epoch Time: 0m 24s
+2020-06-29 09:03:53,004 - 	Train Loss: 1.344 | Train micro-f1: 58.39% | Train mAP: 58.24%
+2020-06-29 09:03:53,004 - 	Val.  Loss: 1.431 | Val.  micro-f1: 57.09% | Val.  mAP: 58.55%
+2020-06-29 09:04:17,247 - Epoch: 05 | Epoch Time: 0m 24s
+2020-06-29 09:04:17,248 - 	Train Loss: 1.287 | Train micro-f1: 60.01% | Train mAP: 59.86%
+2020-06-29 09:04:17,248 - 	Val.  Loss: 1.409 | Val.  micro-f1: 57.09% | Val.  mAP: 59.51%
+2020-06-29 09:04:41,063 - Epoch: 06 | Epoch Time: 0m 23s
+2020-06-29 09:04:41,064 - 	Train Loss: 1.240 | Train micro-f1: 61.15% | Train mAP: 60.72%
+2020-06-29 09:04:41,064 - 	Val.  Loss: 1.383 | Val.  micro-f1: 57.96% | Val.  mAP: 60.40%
+2020-06-29 09:05:03,896 - Epoch: 07 | Epoch Time: 0m 22s
+2020-06-29 09:05:03,897 - 	Train Loss: 1.208 | Train micro-f1: 61.99% | Train mAP: 62.03%
+2020-06-29 09:05:03,897 - 	Val.  Loss: 1.400 | Val.  micro-f1: 57.96% | Val.  mAP: 60.94%
+2020-06-29 09:05:28,411 - Epoch: 08 | Epoch Time: 0m 24s
+2020-06-29 09:05:28,411 - 	Train Loss: 1.170 | Train micro-f1: 62.94% | Train mAP: 62.96%
+2020-06-29 09:05:28,411 - 	Val.  Loss: 1.358 | Val.  micro-f1: 59.21% | Val.  mAP: 60.51%
+2020-06-29 09:05:51,785 - Epoch: 09 | Epoch Time: 0m 23s
+2020-06-29 09:05:51,785 - 	Train Loss: 1.119 | Train micro-f1: 64.62% | Train mAP: 63.92%
+2020-06-29 09:05:51,785 - 	Val.  Loss: 1.364 | Val.  micro-f1: 58.80% | Val.  mAP: 62.12%
+2020-06-29 09:06:13,883 - Epoch: 10 | Epoch Time: 0m 22s
+2020-06-29 09:06:13,883 - 	Train Loss: 1.088 | Train micro-f1: 65.54% | Train mAP: 64.45%
+2020-06-29 09:06:13,883 - 	Val.  Loss: 1.376 | Val.  micro-f1: 59.31% | Val.  mAP: 61.77%

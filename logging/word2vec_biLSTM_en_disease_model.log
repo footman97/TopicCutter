@@ -1,0 +1,203 @@
+2020-07-01 13:34:53,523 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-01 13:36:22,077 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-01 13:45:05,874 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-01 13:46:17,330 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-01 13:46:33,474 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-01 13:48:02,865 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-01 13:48:06,013 - ***************model Info***************
+2020-07-01 13:48:06,014 - model name: ../models/word2vec_biLSTM_en_disease_model.pt
+2020-07-01 13:48:06,014 - epoches: 10
+2020-07-01 13:48:06,014 - hidden dimensions: 128
+2020-07-01 13:48:06,014 - layers: 1
+2020-07-01 13:48:06,014 - dropout: 0.25
+2020-07-01 13:48:06,014 - batch size: 10
+2020-07-01 13:48:06,014 - ****************************************
+2020-07-01 13:48:11,773 - The model has 447,516 trainable parameters
+2020-07-01 13:48:27,862 - Epoch: 01 | Epoch Time: 0m 16s
+2020-07-01 13:48:27,862 - 	Train Loss: 2.295 | Train micro-f1: 33.51% | Train mAP: 21.37%
+2020-07-01 13:48:27,862 - 	Val.  Loss: 1.984 | Val.  micro-f1: 41.08% | Val.  mAP: 32.55%
+2020-07-01 13:48:42,754 - Epoch: 02 | Epoch Time: 0m 14s
+2020-07-01 13:48:42,754 - 	Train Loss: 1.813 | Train micro-f1: 46.10% | Train mAP: 33.95%
+2020-07-01 13:48:42,754 - 	Val.  Loss: 1.775 | Val.  micro-f1: 47.68% | Val.  mAP: 36.62%
+2020-07-01 13:48:57,855 - Epoch: 03 | Epoch Time: 0m 15s
+2020-07-01 13:48:57,855 - 	Train Loss: 1.766 | Train micro-f1: 47.11% | Train mAP: 35.98%
+2020-07-01 13:48:57,855 - 	Val.  Loss: 1.862 | Val.  micro-f1: 46.57% | Val.  mAP: 37.55%
+2020-07-01 13:49:13,472 - Epoch: 04 | Epoch Time: 0m 15s
+2020-07-01 13:49:13,472 - 	Train Loss: 1.660 | Train micro-f1: 50.21% | Train mAP: 38.56%
+2020-07-01 13:49:13,472 - 	Val.  Loss: 1.775 | Val.  micro-f1: 47.67% | Val.  mAP: 40.82%
+2020-07-01 13:49:28,692 - Epoch: 05 | Epoch Time: 0m 15s
+2020-07-01 13:49:28,692 - 	Train Loss: 1.573 | Train micro-f1: 51.78% | Train mAP: 41.20%
+2020-07-01 13:49:28,692 - 	Val.  Loss: 1.667 | Val.  micro-f1: 51.55% | Val.  mAP: 42.09%
+2020-07-01 13:49:43,750 - Epoch: 06 | Epoch Time: 0m 15s
+2020-07-01 13:49:43,750 - 	Train Loss: 1.493 | Train micro-f1: 54.22% | Train mAP: 43.53%
+2020-07-01 13:49:43,750 - 	Val.  Loss: 1.566 | Val.  micro-f1: 52.76% | Val.  mAP: 42.94%
+2020-07-01 13:49:58,194 - Epoch: 07 | Epoch Time: 0m 14s
+2020-07-01 13:49:58,194 - 	Train Loss: 1.464 | Train micro-f1: 54.91% | Train mAP: 44.24%
+2020-07-01 13:49:58,194 - 	Val.  Loss: 1.628 | Val.  micro-f1: 51.46% | Val.  mAP: 43.06%
+2020-07-01 13:50:12,954 - Epoch: 08 | Epoch Time: 0m 14s
+2020-07-01 13:50:12,954 - 	Train Loss: 1.422 | Train micro-f1: 55.94% | Train mAP: 44.96%
+2020-07-01 13:50:12,955 - 	Val.  Loss: 1.553 | Val.  micro-f1: 53.17% | Val.  mAP: 46.09%
+2020-07-01 13:50:28,083 - Epoch: 09 | Epoch Time: 0m 15s
+2020-07-01 13:50:28,084 - 	Train Loss: 1.365 | Train micro-f1: 57.55% | Train mAP: 46.60%
+2020-07-01 13:50:28,084 - 	Val.  Loss: 1.576 | Val.  micro-f1: 53.48% | Val.  mAP: 45.52%
+2020-07-01 13:50:43,489 - Epoch: 10 | Epoch Time: 0m 15s
+2020-07-01 13:50:43,490 - 	Train Loss: 1.378 | Train micro-f1: 57.09% | Train mAP: 46.16%
+2020-07-01 13:50:43,490 - 	Val.  Loss: 1.511 | Val.  micro-f1: 54.72% | Val.  mAP: 45.95%
+2020-07-05 06:53:05,386 - 'pattern' package not found; tag filters are not available for English
+2020-07-05 06:53:05,484 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-05 06:54:35,570 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-05 06:54:52,249 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-05 06:56:18,067 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-05 06:56:21,212 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-05 06:57:44,406 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-05 06:57:49,563 - ***************model Info***************
+2020-07-05 06:57:49,563 - model name: ../models/word2vec_biLSTM_en_disease_model.pt
+2020-07-05 06:57:49,564 - epoches: 20
+2020-07-05 06:57:49,564 - hidden dimensions: 128
+2020-07-05 06:57:49,564 - layers: 1
+2020-07-05 06:57:49,564 - dropout: 0.25
+2020-07-05 06:57:49,564 - batch size: 5
+2020-07-05 06:57:49,564 - ****************************************
+2020-07-05 06:57:53,859 - The model has 447,516 trainable parameters
+2020-07-05 06:58:22,167 - Epoch: 01 | Epoch Time: 0m 27s
+2020-07-05 06:58:22,168 - 	Train Loss: 2.234 | Train micro-f1: 34.33% | Train mAP: 30.04%
+2020-07-05 06:58:22,168 - 	Val.  Loss: 1.993 | Val.  micro-f1: 41.65% | Val.  mAP: 40.65%
+2020-07-05 06:58:49,109 - Epoch: 02 | Epoch Time: 0m 26s
+2020-07-05 06:58:49,109 - 	Train Loss: 1.800 | Train micro-f1: 45.87% | Train mAP: 42.76%
+2020-07-05 06:58:49,109 - 	Val.  Loss: 1.795 | Val.  micro-f1: 48.67% | Val.  mAP: 45.53%
+2020-07-05 06:59:16,609 - Epoch: 03 | Epoch Time: 0m 27s
+2020-07-05 06:59:16,609 - 	Train Loss: 1.654 | Train micro-f1: 49.78% | Train mAP: 47.44%
+2020-07-05 06:59:16,609 - 	Val.  Loss: 1.717 | Val.  micro-f1: 49.64% | Val.  mAP: 49.18%
+2020-07-05 06:59:42,696 - Epoch: 04 | Epoch Time: 0m 26s
+2020-07-05 06:59:42,696 - 	Train Loss: 1.573 | Train micro-f1: 52.02% | Train mAP: 49.55%
+2020-07-05 06:59:42,696 - 	Val.  Loss: 1.646 | Val.  micro-f1: 51.10% | Val.  mAP: 51.57%
+2020-07-05 07:00:10,786 - Epoch: 05 | Epoch Time: 0m 27s
+2020-07-05 07:00:10,787 - 	Train Loss: 1.522 | Train micro-f1: 53.22% | Train mAP: 50.85%
+2020-07-05 07:00:10,787 - 	Val.  Loss: 1.571 | Val.  micro-f1: 52.24% | Val.  mAP: 52.83%
+2020-07-05 07:00:38,325 - Epoch: 06 | Epoch Time: 0m 27s
+2020-07-05 07:00:38,326 - 	Train Loss: 1.472 | Train micro-f1: 54.49% | Train mAP: 53.11%
+2020-07-05 07:00:38,326 - 	Val.  Loss: 1.619 | Val.  micro-f1: 51.61% | Val.  mAP: 54.08%
+2020-07-05 07:01:04,833 - Epoch: 07 | Epoch Time: 0m 26s
+2020-07-05 07:01:04,833 - 	Train Loss: 1.441 | Train micro-f1: 55.06% | Train mAP: 53.84%
+2020-07-05 07:01:04,834 - 	Val.  Loss: 1.548 | Val.  micro-f1: 54.49% | Val.  mAP: 53.75%
+2020-07-05 07:01:31,842 - Epoch: 08 | Epoch Time: 0m 27s
+2020-07-05 07:01:31,843 - 	Train Loss: 1.400 | Train micro-f1: 56.55% | Train mAP: 54.54%
+2020-07-05 07:01:31,843 - 	Val.  Loss: 1.485 | Val.  micro-f1: 55.17% | Val.  mAP: 54.76%
+2020-07-05 07:02:03,867 - Epoch: 09 | Epoch Time: 0m 32s
+2020-07-05 07:02:03,868 - 	Train Loss: 1.383 | Train micro-f1: 56.50% | Train mAP: 55.63%
+2020-07-05 07:02:03,868 - 	Val.  Loss: 1.507 | Val.  micro-f1: 53.37% | Val.  mAP: 55.14%
+2020-07-05 07:02:32,693 - Epoch: 10 | Epoch Time: 0m 28s
+2020-07-05 07:02:32,694 - 	Train Loss: 1.333 | Train micro-f1: 58.54% | Train mAP: 56.28%
+2020-07-05 07:02:32,694 - 	Val.  Loss: 1.463 | Val.  micro-f1: 55.51% | Val.  mAP: 57.29%
+2020-07-05 07:03:03,725 - Epoch: 11 | Epoch Time: 0m 30s
+2020-07-05 07:03:03,725 - 	Train Loss: 1.307 | Train micro-f1: 58.64% | Train mAP: 56.90%
+2020-07-05 07:03:03,725 - 	Val.  Loss: 1.440 | Val.  micro-f1: 56.52% | Val.  mAP: 56.37%
+2020-07-05 07:03:33,570 - Epoch: 12 | Epoch Time: 0m 29s
+2020-07-05 07:03:33,570 - 	Train Loss: 1.276 | Train micro-f1: 59.60% | Train mAP: 58.18%
+2020-07-05 07:03:33,570 - 	Val.  Loss: 1.533 | Val.  micro-f1: 52.71% | Val.  mAP: 56.22%
+2020-07-05 07:04:03,725 - Epoch: 13 | Epoch Time: 0m 30s
+2020-07-05 07:04:03,725 - 	Train Loss: 1.261 | Train micro-f1: 60.31% | Train mAP: 58.30%
+2020-07-05 07:04:03,725 - 	Val.  Loss: 1.588 | Val.  micro-f1: 53.00% | Val.  mAP: 55.40%
+2020-07-05 07:04:31,906 - Epoch: 14 | Epoch Time: 0m 28s
+2020-07-05 07:04:31,906 - 	Train Loss: 1.227 | Train micro-f1: 61.17% | Train mAP: 59.23%
+2020-07-05 07:04:31,906 - 	Val.  Loss: 1.505 | Val.  micro-f1: 55.31% | Val.  mAP: 57.72%
+2020-07-05 07:04:57,043 - Epoch: 15 | Epoch Time: 0m 25s
+2020-07-05 07:04:57,043 - 	Train Loss: 1.212 | Train micro-f1: 61.58% | Train mAP: 59.63%
+2020-07-05 07:04:57,043 - 	Val.  Loss: 1.446 | Val.  micro-f1: 56.53% | Val.  mAP: 57.46%
+2020-07-05 07:05:24,241 - Epoch: 16 | Epoch Time: 0m 27s
+2020-07-05 07:05:24,241 - 	Train Loss: 1.176 | Train micro-f1: 62.72% | Train mAP: 60.23%
+2020-07-05 07:05:24,241 - 	Val.  Loss: 1.461 | Val.  micro-f1: 56.66% | Val.  mAP: 58.57%
+2020-07-05 07:05:49,537 - Epoch: 17 | Epoch Time: 0m 25s
+2020-07-05 07:05:49,538 - 	Train Loss: 1.163 | Train micro-f1: 63.09% | Train mAP: 60.93%
+2020-07-05 07:05:49,538 - 	Val.  Loss: 1.461 | Val.  micro-f1: 56.58% | Val.  mAP: 57.68%
+2020-07-05 07:06:16,072 - Epoch: 18 | Epoch Time: 0m 26s
+2020-07-05 07:06:16,072 - 	Train Loss: 1.141 | Train micro-f1: 63.71% | Train mAP: 61.83%
+2020-07-05 07:06:16,072 - 	Val.  Loss: 1.536 | Val.  micro-f1: 55.73% | Val.  mAP: 58.27%
+2020-07-05 07:06:42,114 - Epoch: 19 | Epoch Time: 0m 26s
+2020-07-05 07:06:42,115 - 	Train Loss: 1.113 | Train micro-f1: 64.45% | Train mAP: 61.64%
+2020-07-05 07:06:42,116 - 	Val.  Loss: 1.527 | Val.  micro-f1: 54.32% | Val.  mAP: 56.75%
+2020-07-05 07:07:06,613 - Epoch: 20 | Epoch Time: 0m 24s
+2020-07-05 07:07:06,614 - 	Train Loss: 1.132 | Train micro-f1: 63.89% | Train mAP: 61.40%
+2020-07-05 07:07:06,614 - 	Val.  Loss: 1.484 | Val.  micro-f1: 55.79% | Val.  mAP: 57.75%
+2020-07-05 07:07:10,975 - ***************Test Set Result***************
+2020-07-05 07:07:10,975 - 	Val.  Loss: 1.457 | Val.  micro-f1: 56.14% | Val.  mAP: 56.49%
+2020-07-05 07:07:10,975 - *********************************************
+2020-07-06 12:11:12,680 - 'pattern' package not found; tag filters are not available for English
+2020-07-06 12:11:12,693 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-06 12:12:22,533 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-06 12:12:36,611 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-06 12:13:47,164 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-06 12:13:50,067 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-06 12:15:02,226 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-07-06 12:15:06,758 - ***************model Info***************
+2020-07-06 12:15:06,985 - model name: ../models/word2vec_biLSTM_en_disease_model.pt
+2020-07-06 12:15:06,985 - epoches: 20
+2020-07-06 12:15:06,985 - hidden dimensions: 128
+2020-07-06 12:15:06,985 - layers: 1
+2020-07-06 12:15:06,985 - dropout: 0.25
+2020-07-06 12:15:06,985 - batch size: 5
+2020-07-06 12:15:06,985 - ****************************************
+2020-07-06 12:15:13,937 - The model has 447,516 trainable parameters
+2020-07-06 12:15:40,320 - Epoch: 01 | Epoch Time: 0m 26s
+2020-07-06 12:15:40,321 - 	Train Loss: 2.267 | Train micro-f1: 33.83% | Train mAP: 28.49%
+2020-07-06 12:15:40,321 - 	Val.  Loss: 2.052 | Val.  micro-f1: 40.59% | Val.  mAP: 38.16%
+2020-07-06 12:16:05,863 - Epoch: 02 | Epoch Time: 0m 25s
+2020-07-06 12:16:05,864 - 	Train Loss: 1.945 | Train micro-f1: 43.18% | Train mAP: 39.09%
+2020-07-06 12:16:05,864 - 	Val.  Loss: 1.761 | Val.  micro-f1: 49.64% | Val.  mAP: 45.44%
+2020-07-06 12:16:31,526 - Epoch: 03 | Epoch Time: 0m 25s
+2020-07-06 12:16:31,527 - 	Train Loss: 1.706 | Train micro-f1: 49.10% | Train mAP: 45.88%
+2020-07-06 12:16:31,527 - 	Val.  Loss: 1.719 | Val.  micro-f1: 49.91% | Val.  mAP: 46.96%
+2020-07-06 12:16:56,758 - Epoch: 04 | Epoch Time: 0m 25s
+2020-07-06 12:16:56,759 - 	Train Loss: 1.622 | Train micro-f1: 50.99% | Train mAP: 48.09%
+2020-07-06 12:16:56,759 - 	Val.  Loss: 1.628 | Val.  micro-f1: 51.08% | Val.  mAP: 48.65%
+2020-07-06 12:17:23,836 - Epoch: 05 | Epoch Time: 0m 27s
+2020-07-06 12:17:23,836 - 	Train Loss: 1.599 | Train micro-f1: 51.40% | Train mAP: 49.49%
+2020-07-06 12:17:23,836 - 	Val.  Loss: 1.641 | Val.  micro-f1: 51.04% | Val.  mAP: 50.58%
+2020-07-06 12:17:49,008 - Epoch: 06 | Epoch Time: 0m 24s
+2020-07-06 12:17:49,009 - 	Train Loss: 1.519 | Train micro-f1: 53.12% | Train mAP: 51.06%
+2020-07-06 12:17:49,009 - 	Val.  Loss: 1.564 | Val.  micro-f1: 53.05% | Val.  mAP: 52.36%
+2020-07-06 12:18:15,071 - Epoch: 07 | Epoch Time: 0m 26s
+2020-07-06 12:18:15,072 - 	Train Loss: 1.473 | Train micro-f1: 54.68% | Train mAP: 52.77%
+2020-07-06 12:18:15,072 - 	Val.  Loss: 1.548 | Val.  micro-f1: 54.03% | Val.  mAP: 54.18%
+2020-07-06 12:18:41,455 - Epoch: 08 | Epoch Time: 0m 26s
+2020-07-06 12:18:41,455 - 	Train Loss: 1.431 | Train micro-f1: 55.57% | Train mAP: 53.48%
+2020-07-06 12:18:41,455 - 	Val.  Loss: 1.580 | Val.  micro-f1: 52.16% | Val.  mAP: 53.66%
+2020-07-06 12:19:07,147 - Epoch: 09 | Epoch Time: 0m 25s
+2020-07-06 12:19:07,147 - 	Train Loss: 1.436 | Train micro-f1: 55.38% | Train mAP: 53.53%
+2020-07-06 12:19:07,147 - 	Val.  Loss: 1.625 | Val.  micro-f1: 50.85% | Val.  mAP: 53.37%
+2020-07-06 12:19:32,541 - Epoch: 10 | Epoch Time: 0m 25s
+2020-07-06 12:19:32,542 - 	Train Loss: 1.400 | Train micro-f1: 56.06% | Train mAP: 54.76%
+2020-07-06 12:19:32,542 - 	Val.  Loss: 1.501 | Val.  micro-f1: 54.48% | Val.  mAP: 55.53%
+2020-07-06 12:19:58,499 - Epoch: 11 | Epoch Time: 0m 25s
+2020-07-06 12:19:58,499 - 	Train Loss: 1.348 | Train micro-f1: 57.62% | Train mAP: 55.56%
+2020-07-06 12:19:58,499 - 	Val.  Loss: 1.548 | Val.  micro-f1: 53.92% | Val.  mAP: 55.07%
+2020-07-06 12:20:24,566 - Epoch: 12 | Epoch Time: 0m 26s
+2020-07-06 12:20:24,567 - 	Train Loss: 1.320 | Train micro-f1: 58.54% | Train mAP: 56.74%
+2020-07-06 12:20:24,567 - 	Val.  Loss: 1.498 | Val.  micro-f1: 55.81% | Val.  mAP: 56.17%
+2020-07-06 12:20:50,931 - Epoch: 13 | Epoch Time: 0m 26s
+2020-07-06 12:20:50,931 - 	Train Loss: 1.293 | Train micro-f1: 58.89% | Train mAP: 57.41%
+2020-07-06 12:20:50,931 - 	Val.  Loss: 1.513 | Val.  micro-f1: 53.85% | Val.  mAP: 55.74%
+2020-07-06 12:21:18,872 - Epoch: 14 | Epoch Time: 0m 27s
+2020-07-06 12:21:18,873 - 	Train Loss: 1.271 | Train micro-f1: 59.90% | Train mAP: 57.90%
+2020-07-06 12:21:18,873 - 	Val.  Loss: 1.468 | Val.  micro-f1: 55.18% | Val.  mAP: 56.36%
+2020-07-06 12:21:44,459 - Epoch: 15 | Epoch Time: 0m 25s
+2020-07-06 12:21:44,459 - 	Train Loss: 1.238 | Train micro-f1: 60.81% | Train mAP: 58.82%
+2020-07-06 12:21:44,459 - 	Val.  Loss: 1.440 | Val.  micro-f1: 55.89% | Val.  mAP: 57.15%
+2020-07-06 12:22:08,717 - Epoch: 16 | Epoch Time: 0m 24s
+2020-07-06 12:22:08,717 - 	Train Loss: 1.220 | Train micro-f1: 61.27% | Train mAP: 58.98%
+2020-07-06 12:22:08,717 - 	Val.  Loss: 1.468 | Val.  micro-f1: 55.30% | Val.  mAP: 55.30%
+2020-07-06 12:22:34,392 - Epoch: 17 | Epoch Time: 0m 25s
+2020-07-06 12:22:34,392 - 	Train Loss: 1.209 | Train micro-f1: 61.59% | Train mAP: 59.26%
+2020-07-06 12:22:34,392 - 	Val.  Loss: 1.440 | Val.  micro-f1: 56.35% | Val.  mAP: 57.18%
+2020-07-06 12:23:01,005 - Epoch: 18 | Epoch Time: 0m 26s
+2020-07-06 12:23:01,005 - 	Train Loss: 1.184 | Train micro-f1: 62.25% | Train mAP: 60.39%
+2020-07-06 12:23:01,005 - 	Val.  Loss: 1.446 | Val.  micro-f1: 56.95% | Val.  mAP: 56.76%
+2020-07-06 12:23:26,592 - Epoch: 19 | Epoch Time: 0m 25s
+2020-07-06 12:23:26,592 - 	Train Loss: 1.160 | Train micro-f1: 63.05% | Train mAP: 60.84%
+2020-07-06 12:23:26,593 - 	Val.  Loss: 1.434 | Val.  micro-f1: 57.27% | Val.  mAP: 57.37%
+2020-07-06 12:23:55,207 - Epoch: 20 | Epoch Time: 0m 28s
+2020-07-06 12:23:55,207 - 	Train Loss: 1.135 | Train micro-f1: 63.89% | Train mAP: 61.06%
+2020-07-06 12:23:55,207 - 	Val.  Loss: 1.458 | Val.  micro-f1: 56.78% | Val.  mAP: 57.74%
+2020-07-06 12:23:59,831 - ***************Test Set Result***************
+2020-07-06 12:23:59,831 - 	Val.  Loss: 1.508 | Val.  micro-f1: 54.91% | Val.  mAP: 56.41%
+2020-07-06 12:23:59,831 - *********************************************

@@ -1,0 +1,308 @@
+2020-07-06 15:03:02,678 - PyTorch version 1.4.0 available.
+2020-07-06 15:03:06,056 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-07-06 15:03:06,943 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-07-06 15:03:06,944 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-07-06 15:03:07,171 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-07-06 18:04:36,998 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-07-06 18:04:37,914 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-07-06 18:04:38,637 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-07-06 18:04:38,695 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-07-06 18:30:12,592 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-07-06 18:30:13,197 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-07-06 18:30:13,197 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-07-06 18:30:13,250 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-07-06 19:21:28,349 - ***************model Info***************
+2020-07-06 19:21:28,361 - model name: ../models/naiveBERT_biLSTM_en_city_model.pt
+2020-07-06 19:21:28,361 - epoches: 20
+2020-07-06 19:21:28,361 - hidden dimensions: 128
+2020-07-06 19:21:28,362 - layers: 1
+2020-07-06 19:21:28,362 - dropout: 0.25
+2020-07-06 19:21:28,362 - batch size: 10
+2020-07-06 19:21:28,362 - ****************************************
+2020-07-06 19:22:05,846 - The model has 927,519 trainable parameters
+2020-07-06 19:24:52,652 - Epoch: 01 | Epoch Time: 2m 46s
+2020-07-06 19:24:52,652 - 	Train Loss: 0.879 | Train micro-f1: 77.16% | Train mAP: 60.56%
+2020-07-06 19:24:52,652 - 	Val.  Loss: 0.736 | Val.  micro-f1: 79.97% | Val.  mAP: 68.89%
+2020-07-06 19:26:21,666 - Epoch: 02 | Epoch Time: 1m 28s
+2020-07-06 19:26:21,666 - 	Train Loss: 0.713 | Train micro-f1: 80.78% | Train mAP: 67.97%
+2020-07-06 19:26:21,666 - 	Val.  Loss: 0.690 | Val.  micro-f1: 81.10% | Val.  mAP: 70.62%
+2020-07-06 19:27:59,004 - Epoch: 03 | Epoch Time: 1m 37s
+2020-07-06 19:27:59,004 - 	Train Loss: 0.670 | Train micro-f1: 81.69% | Train mAP: 69.33%
+2020-07-06 19:27:59,004 - 	Val.  Loss: 0.711 | Val.  micro-f1: 80.57% | Val.  mAP: 70.78%
+2020-07-06 19:29:29,963 - Epoch: 04 | Epoch Time: 1m 30s
+2020-07-06 19:29:29,964 - 	Train Loss: 0.631 | Train micro-f1: 82.53% | Train mAP: 70.74%
+2020-07-06 19:29:29,964 - 	Val.  Loss: 0.670 | Val.  micro-f1: 81.53% | Val.  mAP: 72.03%
+2020-07-06 19:30:59,629 - Epoch: 05 | Epoch Time: 1m 29s
+2020-07-06 19:30:59,629 - 	Train Loss: 0.606 | Train micro-f1: 82.98% | Train mAP: 71.41%
+2020-07-06 19:30:59,629 - 	Val.  Loss: 0.663 | Val.  micro-f1: 82.00% | Val.  mAP: 72.52%
+2020-07-06 19:32:28,748 - Epoch: 06 | Epoch Time: 1m 29s
+2020-07-06 19:32:28,748 - 	Train Loss: 0.583 | Train micro-f1: 83.56% | Train mAP: 71.96%
+2020-07-06 19:32:28,749 - 	Val.  Loss: 0.665 | Val.  micro-f1: 81.73% | Val.  mAP: 72.43%
+2020-07-06 19:33:56,112 - Epoch: 07 | Epoch Time: 1m 27s
+2020-07-06 19:33:56,113 - 	Train Loss: 0.557 | Train micro-f1: 84.12% | Train mAP: 72.83%
+2020-07-06 19:33:56,113 - 	Val.  Loss: 0.656 | Val.  micro-f1: 82.05% | Val.  mAP: 72.56%
+2020-07-06 19:35:26,119 - Epoch: 08 | Epoch Time: 1m 29s
+2020-07-06 19:35:26,120 - 	Train Loss: 0.536 | Train micro-f1: 84.66% | Train mAP: 73.46%
+2020-07-06 19:35:26,120 - 	Val.  Loss: 0.652 | Val.  micro-f1: 82.03% | Val.  mAP: 72.65%
+2020-07-06 19:37:08,099 - Epoch: 09 | Epoch Time: 1m 41s
+2020-07-06 19:37:08,100 - 	Train Loss: 0.514 | Train micro-f1: 85.14% | Train mAP: 73.79%
+2020-07-06 19:37:08,101 - 	Val.  Loss: 0.678 | Val.  micro-f1: 81.46% | Val.  mAP: 71.83%
+2020-07-06 19:38:35,181 - Epoch: 10 | Epoch Time: 1m 27s
+2020-07-06 19:38:35,182 - 	Train Loss: 0.485 | Train micro-f1: 85.86% | Train mAP: 74.62%
+2020-07-06 19:38:35,182 - 	Val.  Loss: 0.679 | Val.  micro-f1: 81.67% | Val.  mAP: 72.88%
+2020-07-06 19:40:05,505 - Epoch: 11 | Epoch Time: 1m 30s
+2020-07-06 19:40:05,505 - 	Train Loss: 0.462 | Train micro-f1: 86.41% | Train mAP: 74.98%
+2020-07-06 19:40:05,506 - 	Val.  Loss: 0.688 | Val.  micro-f1: 81.28% | Val.  mAP: 71.70%
+2020-07-06 19:41:41,677 - Epoch: 12 | Epoch Time: 1m 36s
+2020-07-06 19:41:41,678 - 	Train Loss: 0.437 | Train micro-f1: 87.10% | Train mAP: 75.45%
+2020-07-06 19:41:41,678 - 	Val.  Loss: 0.696 | Val.  micro-f1: 81.65% | Val.  mAP: 71.85%
+2020-07-06 19:43:18,096 - Epoch: 13 | Epoch Time: 1m 36s
+2020-07-06 19:43:18,097 - 	Train Loss: 0.413 | Train micro-f1: 87.74% | Train mAP: 76.37%
+2020-07-06 19:43:18,097 - 	Val.  Loss: 0.698 | Val.  micro-f1: 81.59% | Val.  mAP: 71.83%
+2020-07-06 19:44:53,150 - Epoch: 14 | Epoch Time: 1m 35s
+2020-07-06 19:44:53,150 - 	Train Loss: 0.392 | Train micro-f1: 88.34% | Train mAP: 76.75%
+2020-07-06 19:44:53,150 - 	Val.  Loss: 0.707 | Val.  micro-f1: 81.54% | Val.  mAP: 71.59%
+2020-07-06 19:46:21,803 - Epoch: 15 | Epoch Time: 1m 28s
+2020-07-06 19:46:21,803 - 	Train Loss: 0.372 | Train micro-f1: 88.90% | Train mAP: 77.25%
+2020-07-06 19:46:21,803 - 	Val.  Loss: 0.710 | Val.  micro-f1: 81.48% | Val.  mAP: 71.21%
+2020-07-06 19:50:59,622 - Epoch: 16 | Epoch Time: 4m 37s
+2020-07-06 19:50:59,795 - 	Train Loss: 0.343 | Train micro-f1: 89.70% | Train mAP: 78.10%
+2020-07-06 19:50:59,795 - 	Val.  Loss: 0.754 | Val.  micro-f1: 80.70% | Val.  mAP: 71.26%
+2020-07-06 19:54:49,200 - Epoch: 17 | Epoch Time: 3m 49s
+2020-07-06 19:54:49,200 - 	Train Loss: 0.329 | Train micro-f1: 90.05% | Train mAP: 78.50%
+2020-07-06 19:54:49,200 - 	Val.  Loss: 0.740 | Val.  micro-f1: 81.25% | Val.  mAP: 71.31%
+2020-07-06 19:56:17,143 - Epoch: 18 | Epoch Time: 1m 27s
+2020-07-06 19:56:17,143 - 	Train Loss: 0.306 | Train micro-f1: 90.69% | Train mAP: 78.70%
+2020-07-06 19:56:17,143 - 	Val.  Loss: 0.765 | Val.  micro-f1: 81.50% | Val.  mAP: 71.29%
+2020-07-06 19:57:42,563 - Epoch: 19 | Epoch Time: 1m 25s
+2020-07-06 19:57:42,563 - 	Train Loss: 0.291 | Train micro-f1: 91.12% | Train mAP: 79.56%
+2020-07-06 19:57:42,563 - 	Val.  Loss: 0.802 | Val.  micro-f1: 80.84% | Val.  mAP: 70.48%
+2020-07-06 19:59:12,856 - Epoch: 20 | Epoch Time: 1m 30s
+2020-07-06 19:59:12,857 - 	Train Loss: 0.276 | Train micro-f1: 91.53% | Train mAP: 80.09%
+2020-07-06 19:59:12,857 - 	Val.  Loss: 0.817 | Val.  micro-f1: 80.64% | Val.  mAP: 71.03%
+2020-07-06 19:59:32,512 - ***************Test Set Result***************
+2020-07-06 19:59:32,513 - 	Val.  Loss: 0.652 | Val.  micro-f1: 82.15% | Val.  mAP: 71.69%
+2020-07-06 19:59:32,513 - *********************************************
+2020-07-06 23:56:28,573 - PyTorch version 1.4.0 available.
+2020-07-06 23:56:29,587 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-07-06 23:56:30,224 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-07-06 23:56:30,225 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-07-06 23:56:30,277 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-07-07 09:36:11,004 - PyTorch version 1.4.0 available.
+2020-07-07 09:36:12,757 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-07-07 09:36:13,513 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-07-07 09:36:13,514 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-07-07 09:36:13,778 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-07-07 12:14:59,385 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-07-07 12:14:59,859 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-07-07 12:14:59,860 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-07-07 12:15:00,120 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-07-07 12:39:11,887 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-07-07 12:39:12,588 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-07-07 12:39:12,588 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-07-07 12:39:12,757 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+2020-07-07 13:26:56,056 - ***************model Info***************
+2020-07-07 13:26:56,056 - model name: ../models/naiveBERT_biLSTM_en_city_model.pt
+2020-07-07 13:26:56,057 - epoches: 20
+2020-07-07 13:26:56,057 - hidden dimensions: 128
+2020-07-07 13:26:56,057 - layers: 1
+2020-07-07 13:26:56,057 - dropout: 0.25
+2020-07-07 13:26:56,057 - batch size: 10
+2020-07-07 13:26:56,057 - ****************************************
+2020-07-07 13:26:58,675 - The model has 927,519 trainable parameters
+2020-07-07 13:28:33,690 - Epoch: 01 | Epoch Time: 1m 34s
+2020-07-07 13:28:33,690 - 	Train Loss: 0.889 | Train micro-f1: 76.99% | Train mAP: 60.04%
+2020-07-07 13:28:33,690 - 	Val.  Loss: 0.751 | Val.  micro-f1: 79.68% | Val.  mAP: 68.38%
+2020-07-07 13:30:08,866 - Epoch: 02 | Epoch Time: 1m 35s
+2020-07-07 13:30:08,867 - 	Train Loss: 0.720 | Train micro-f1: 80.63% | Train mAP: 67.70%
+2020-07-07 13:30:08,867 - 	Val.  Loss: 0.704 | Val.  micro-f1: 80.56% | Val.  mAP: 70.13%
+2020-07-07 13:31:41,879 - Epoch: 03 | Epoch Time: 1m 33s
+2020-07-07 13:31:41,879 - 	Train Loss: 0.672 | Train micro-f1: 81.72% | Train mAP: 69.15%
+2020-07-07 13:31:41,880 - 	Val.  Loss: 0.711 | Val.  micro-f1: 80.22% | Val.  mAP: 70.77%
+2020-07-07 13:33:18,068 - Epoch: 04 | Epoch Time: 1m 36s
+2020-07-07 13:33:18,068 - 	Train Loss: 0.637 | Train micro-f1: 82.37% | Train mAP: 70.44%
+2020-07-07 13:33:18,068 - 	Val.  Loss: 0.679 | Val.  micro-f1: 81.11% | Val.  mAP: 71.57%
+2020-07-07 13:34:55,455 - Epoch: 05 | Epoch Time: 1m 37s
+2020-07-07 13:34:55,456 - 	Train Loss: 0.613 | Train micro-f1: 82.97% | Train mAP: 71.28%
+2020-07-07 13:34:55,456 - 	Val.  Loss: 0.671 | Val.  micro-f1: 81.34% | Val.  mAP: 71.63%
+2020-07-07 13:36:27,082 - Epoch: 06 | Epoch Time: 1m 31s
+2020-07-07 13:36:27,082 - 	Train Loss: 0.594 | Train micro-f1: 83.28% | Train mAP: 71.67%
+2020-07-07 13:36:27,082 - 	Val.  Loss: 0.669 | Val.  micro-f1: 81.38% | Val.  mAP: 71.56%
+2020-07-07 13:37:46,536 - Epoch: 07 | Epoch Time: 1m 19s
+2020-07-07 13:37:46,537 - 	Train Loss: 0.565 | Train micro-f1: 83.90% | Train mAP: 72.62%
+2020-07-07 13:37:46,537 - 	Val.  Loss: 0.680 | Val.  micro-f1: 81.44% | Val.  mAP: 72.36%
+2020-07-07 13:39:07,821 - Epoch: 08 | Epoch Time: 1m 21s
+2020-07-07 13:39:07,822 - 	Train Loss: 0.543 | Train micro-f1: 84.48% | Train mAP: 73.04%
+2020-07-07 13:39:07,822 - 	Val.  Loss: 0.651 | Val.  micro-f1: 81.86% | Val.  mAP: 72.82%
+2020-07-07 13:40:26,433 - Epoch: 09 | Epoch Time: 1m 18s
+2020-07-07 13:40:26,434 - 	Train Loss: 0.516 | Train micro-f1: 85.13% | Train mAP: 73.59%
+2020-07-07 13:40:26,434 - 	Val.  Loss: 0.679 | Val.  micro-f1: 81.03% | Val.  mAP: 71.49%
+2020-07-07 13:41:46,526 - Epoch: 10 | Epoch Time: 1m 20s
+2020-07-07 13:41:46,526 - 	Train Loss: 0.488 | Train micro-f1: 85.82% | Train mAP: 74.55%
+2020-07-07 13:41:46,526 - 	Val.  Loss: 0.672 | Val.  micro-f1: 81.79% | Val.  mAP: 72.90%
+2020-07-07 13:43:04,564 - Epoch: 11 | Epoch Time: 1m 18s
+2020-07-07 13:43:04,565 - 	Train Loss: 0.472 | Train micro-f1: 86.17% | Train mAP: 74.94%
+2020-07-07 13:43:04,565 - 	Val.  Loss: 0.678 | Val.  micro-f1: 81.62% | Val.  mAP: 72.14%
+2020-07-07 13:44:31,394 - Epoch: 12 | Epoch Time: 1m 26s
+2020-07-07 13:44:31,394 - 	Train Loss: 0.443 | Train micro-f1: 86.97% | Train mAP: 75.71%
+2020-07-07 13:44:31,394 - 	Val.  Loss: 0.682 | Val.  micro-f1: 81.68% | Val.  mAP: 72.06%
+2020-07-07 13:45:56,532 - Epoch: 13 | Epoch Time: 1m 25s
+2020-07-07 13:45:56,533 - 	Train Loss: 0.420 | Train micro-f1: 87.61% | Train mAP: 76.33%
+2020-07-07 13:45:56,533 - 	Val.  Loss: 0.714 | Val.  micro-f1: 80.99% | Val.  mAP: 72.55%
+2020-07-07 13:47:43,036 - Epoch: 14 | Epoch Time: 1m 46s
+2020-07-07 13:47:43,036 - 	Train Loss: 0.404 | Train micro-f1: 87.98% | Train mAP: 76.63%
+2020-07-07 13:47:43,036 - 	Val.  Loss: 0.736 | Val.  micro-f1: 81.09% | Val.  mAP: 71.53%
+2020-07-07 13:49:09,180 - Epoch: 15 | Epoch Time: 1m 26s
+2020-07-07 13:49:09,181 - 	Train Loss: 0.374 | Train micro-f1: 88.84% | Train mAP: 77.64%
+2020-07-07 13:49:09,181 - 	Val.  Loss: 0.734 | Val.  micro-f1: 81.03% | Val.  mAP: 71.88%
+2020-07-07 13:50:38,089 - Epoch: 16 | Epoch Time: 1m 28s
+2020-07-07 13:50:38,089 - 	Train Loss: 0.355 | Train micro-f1: 89.33% | Train mAP: 78.05%
+2020-07-07 13:50:38,089 - 	Val.  Loss: 0.733 | Val.  micro-f1: 80.82% | Val.  mAP: 71.22%
+2020-07-07 13:52:07,893 - Epoch: 17 | Epoch Time: 1m 29s
+2020-07-07 13:52:07,894 - 	Train Loss: 0.336 | Train micro-f1: 89.88% | Train mAP: 78.76%
+2020-07-07 13:52:07,894 - 	Val.  Loss: 0.776 | Val.  micro-f1: 80.48% | Val.  mAP: 71.03%
+2020-07-07 13:53:40,243 - Epoch: 18 | Epoch Time: 1m 32s
+2020-07-07 13:53:40,243 - 	Train Loss: 0.322 | Train micro-f1: 90.25% | Train mAP: 79.18%
+2020-07-07 13:53:40,243 - 	Val.  Loss: 0.750 | Val.  micro-f1: 81.10% | Val.  mAP: 71.49%
+2020-07-07 13:55:05,723 - Epoch: 19 | Epoch Time: 1m 25s
+2020-07-07 13:55:05,723 - 	Train Loss: 0.303 | Train micro-f1: 90.77% | Train mAP: 79.63%
+2020-07-07 13:55:05,724 - 	Val.  Loss: 0.779 | Val.  micro-f1: 80.87% | Val.  mAP: 71.68%
+2020-07-07 13:56:33,053 - Epoch: 20 | Epoch Time: 1m 27s
+2020-07-07 13:56:33,053 - 	Train Loss: 0.283 | Train micro-f1: 91.34% | Train mAP: 80.17%
+2020-07-07 13:56:33,053 - 	Val.  Loss: 0.800 | Val.  micro-f1: 80.98% | Val.  mAP: 71.52%
+2020-07-07 13:56:49,120 - ***************Test Set Result***************
+2020-07-07 13:56:49,120 - 	Val.  Loss: 0.652 | Val.  micro-f1: 81.95% | Val.  mAP: 71.78%
+2020-07-07 13:56:49,120 - *********************************************

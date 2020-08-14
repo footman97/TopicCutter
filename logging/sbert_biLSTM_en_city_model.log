@@ -1,0 +1,39 @@
+2020-06-28 13:26:47,005 - root - ***************model Info***************
+2020-06-28 13:26:47,005 - root - model name: ../models/sbert_biLSTM_en_city_model.pt
+2020-06-28 13:26:47,005 - root - epoches: 10
+2020-06-28 13:26:47,005 - root - hidden dimensions: 128
+2020-06-28 13:26:47,005 - root - layers: 1
+2020-06-28 13:26:47,005 - root - dropout: 0.25
+2020-06-28 13:26:47,005 - root - batch size: 10
+2020-06-28 13:26:47,005 - root - ****************************************
+2020-06-28 13:26:54,783 - root - The model has 927,519 trainable parameters
+2020-06-28 13:28:39,639 - root - Epoch: 01 | Epoch Time: 1m 44s
+2020-06-28 13:28:39,639 - root - 	Train Loss: 0.901 | Train micro-f1: 76.75% | Train mAP: 59.77%
+2020-06-28 13:28:39,640 - root - 	Val.  Loss: 0.759 | Val.  micro-f1: 79.51% | Val.  mAP: 67.07%
+2020-06-28 13:30:22,457 - root - Epoch: 02 | Epoch Time: 1m 42s
+2020-06-28 13:30:22,458 - root - 	Train Loss: 0.735 | Train micro-f1: 80.17% | Train mAP: 66.42%
+2020-06-28 13:30:22,458 - root - 	Val.  Loss: 0.741 | Val.  micro-f1: 79.58% | Val.  mAP: 68.73%
+2020-06-28 13:32:08,734 - root - Epoch: 03 | Epoch Time: 1m 46s
+2020-06-28 13:32:08,735 - root - 	Train Loss: 0.689 | Train micro-f1: 81.13% | Train mAP: 67.92%
+2020-06-28 13:32:08,735 - root - 	Val.  Loss: 0.719 | Val.  micro-f1: 80.16% | Val.  mAP: 68.92%
+2020-06-28 13:33:45,401 - root - Epoch: 04 | Epoch Time: 1m 36s
+2020-06-28 13:33:45,401 - root - 	Train Loss: 0.656 | Train micro-f1: 81.82% | Train mAP: 69.28%
+2020-06-28 13:33:45,401 - root - 	Val.  Loss: 0.728 | Val.  micro-f1: 79.85% | Val.  mAP: 69.28%
+2020-06-28 13:35:18,536 - root - Epoch: 05 | Epoch Time: 1m 33s
+2020-06-28 13:35:18,536 - root - 	Train Loss: 0.617 | Train micro-f1: 82.73% | Train mAP: 70.27%
+2020-06-28 13:35:18,537 - root - 	Val.  Loss: 0.716 | Val.  micro-f1: 80.42% | Val.  mAP: 69.57%
+2020-06-28 13:36:57,452 - root - Epoch: 06 | Epoch Time: 1m 38s
+2020-06-28 13:36:57,452 - root - 	Train Loss: 0.591 | Train micro-f1: 83.28% | Train mAP: 70.56%
+2020-06-28 13:36:57,453 - root - 	Val.  Loss: 0.708 | Val.  micro-f1: 80.54% | Val.  mAP: 70.02%
+2020-06-28 13:38:41,684 - root - Epoch: 07 | Epoch Time: 1m 44s
+2020-06-28 13:38:41,684 - root - 	Train Loss: 0.557 | Train micro-f1: 84.05% | Train mAP: 71.48%
+2020-06-28 13:38:41,684 - root - 	Val.  Loss: 0.730 | Val.  micro-f1: 79.60% | Val.  mAP: 70.10%
+2020-06-28 13:40:22,298 - root - Epoch: 08 | Epoch Time: 1m 40s
+2020-06-28 13:40:22,298 - root - 	Train Loss: 0.530 | Train micro-f1: 84.67% | Train mAP: 72.31%
+2020-06-28 13:40:22,298 - root - 	Val.  Loss: 0.719 | Val.  micro-f1: 80.51% | Val.  mAP: 69.68%
+2020-06-28 13:42:06,971 - root - Epoch: 09 | Epoch Time: 1m 44s
+2020-06-28 13:42:06,971 - root - 	Train Loss: 0.498 | Train micro-f1: 85.53% | Train mAP: 73.03%
+2020-06-28 13:42:06,971 - root - 	Val.  Loss: 0.729 | Val.  micro-f1: 80.36% | Val.  mAP: 70.27%
+2020-06-28 13:43:41,736 - root - Epoch: 10 | Epoch Time: 1m 34s
+2020-06-28 13:43:41,737 - root - 	Train Loss: 0.471 | Train micro-f1: 86.23% | Train mAP: 73.89%
+2020-06-28 13:43:41,737 - root - 	Val.  Loss: 0.731 | Val.  micro-f1: 80.52% | Val.  mAP: 69.60%
