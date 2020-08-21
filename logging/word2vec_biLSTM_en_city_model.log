@@ -41,3 +41,106 @@
 2020-07-01 15:09:36,054 - Epoch: 10 | Epoch Time: 1m 28s
 2020-07-01 15:09:36,054 - 	Train Loss: 0.628 | Train micro-f1: 82.54% | Train mAP: 68.72%
 2020-07-01 15:09:36,054 - 	Val.  Loss: 0.732 | Val.  micro-f1: 79.96% | Val.  mAP: 67.32%
+2020-08-11 14:38:19,814 - 'pattern' package not found; tag filters are not available for English
+2020-08-11 14:38:19,844 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-08-11 14:39:33,347 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-08-11 14:40:32,555 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-08-11 14:41:37,312 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-08-11 14:41:47,797 - loading projection weights from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-08-11 14:42:52,802 - loaded (3000000, 300) matrix from ./word2vec/GoogleNews-vectors-negative300.bin
+2020-08-11 14:43:12,822 - ***************model Info***************
+2020-08-11 14:43:12,824 - model name: ../models/word2vec_biLSTM_en_city_model.pt
+2020-08-11 14:43:12,824 - epoches: 20
+2020-08-11 14:43:12,825 - hidden dimensions: 128
+2020-08-11 14:43:12,825 - layers: 1
+2020-08-11 14:43:12,825 - dropout: 0.25
+2020-08-11 14:43:12,825 - batch size: 10
+2020-08-11 14:43:12,825 - ****************************************
+2020-08-11 14:43:18,848 - The model has 448,287 trainable parameters
+2020-08-11 14:44:57,569 - Epoch: 01 | Epoch Time: 1m 38s
+2020-08-11 14:44:57,569 - 	Train Loss: 1.184 | Train micro-f1: 69.71% | Train mAP: 43.65%
+2020-08-11 14:44:57,569 - 	Val.  Loss: 0.914 | Val.  micro-f1: 75.95% | Val.  mAP: 57.06%
+2020-08-11 14:46:50,558 - Epoch: 02 | Epoch Time: 1m 52s
+2020-08-11 14:46:50,558 - 	Train Loss: 0.868 | Train micro-f1: 77.21% | Train mAP: 57.23%
+2020-08-11 14:46:50,559 - 	Val.  Loss: 0.864 | Val.  micro-f1: 77.28% | Val.  mAP: 60.64%
+2020-08-11 14:48:47,348 - Epoch: 03 | Epoch Time: 1m 56s
+2020-08-11 14:48:47,349 - 	Train Loss: 0.816 | Train micro-f1: 78.36% | Train mAP: 60.37%
+2020-08-11 14:48:47,349 - 	Val.  Loss: 0.835 | Val.  micro-f1: 77.88% | Val.  mAP: 62.76%
+2020-08-11 14:50:42,608 - Epoch: 04 | Epoch Time: 1m 55s
+2020-08-11 14:50:42,608 - 	Train Loss: 0.777 | Train micro-f1: 79.17% | Train mAP: 62.40%
+2020-08-11 14:50:42,609 - 	Val.  Loss: 0.802 | Val.  micro-f1: 78.31% | Val.  mAP: 64.14%
+2020-08-11 14:52:39,007 - Epoch: 05 | Epoch Time: 1m 56s
+2020-08-11 14:52:39,007 - 	Train Loss: 0.753 | Train micro-f1: 79.62% | Train mAP: 63.79%
+2020-08-11 14:52:39,007 - 	Val.  Loss: 0.764 | Val.  micro-f1: 79.37% | Val.  mAP: 65.92%
+2020-08-11 14:54:34,042 - Epoch: 06 | Epoch Time: 1m 54s
+2020-08-11 14:54:34,042 - 	Train Loss: 0.729 | Train micro-f1: 80.11% | Train mAP: 64.70%
+2020-08-11 14:54:34,042 - 	Val.  Loss: 0.763 | Val.  micro-f1: 79.08% | Val.  mAP: 65.88%
+2020-08-11 14:56:23,834 - Epoch: 07 | Epoch Time: 1m 49s
+2020-08-11 14:56:23,835 - 	Train Loss: 0.711 | Train micro-f1: 80.59% | Train mAP: 65.52%
+2020-08-11 14:56:23,835 - 	Val.  Loss: 0.762 | Val.  micro-f1: 79.28% | Val.  mAP: 66.23%
+2020-08-11 14:58:20,029 - Epoch: 08 | Epoch Time: 1m 56s
+2020-08-11 14:58:20,030 - 	Train Loss: 0.691 | Train micro-f1: 80.96% | Train mAP: 66.08%
+2020-08-11 14:58:20,030 - 	Val.  Loss: 0.748 | Val.  micro-f1: 79.63% | Val.  mAP: 66.92%
+2020-08-11 15:00:15,477 - Epoch: 09 | Epoch Time: 1m 55s
+2020-08-11 15:00:15,477 - 	Train Loss: 0.677 | Train micro-f1: 81.28% | Train mAP: 66.72%
+2020-08-11 15:00:15,477 - 	Val.  Loss: 0.744 | Val.  micro-f1: 79.71% | Val.  mAP: 66.64%
+2020-08-11 15:02:11,205 - Epoch: 10 | Epoch Time: 1m 55s
+2020-08-11 15:02:11,206 - 	Train Loss: 0.662 | Train micro-f1: 81.70% | Train mAP: 67.18%
+2020-08-11 15:02:11,206 - 	Val.  Loss: 0.740 | Val.  micro-f1: 79.84% | Val.  mAP: 67.57%
+2020-08-11 15:03:48,966 - Epoch: 11 | Epoch Time: 1m 37s
+2020-08-11 15:03:48,966 - 	Train Loss: 0.650 | Train micro-f1: 81.92% | Train mAP: 67.66%
+2020-08-11 15:03:48,966 - 	Val.  Loss: 0.747 | Val.  micro-f1: 79.46% | Val.  mAP: 67.22%
+2020-08-11 15:05:43,197 - Epoch: 12 | Epoch Time: 1m 54s
+2020-08-11 15:05:43,197 - 	Train Loss: 0.639 | Train micro-f1: 82.14% | Train mAP: 67.93%
+2020-08-11 15:05:43,197 - 	Val.  Loss: 0.735 | Val.  micro-f1: 80.00% | Val.  mAP: 67.75%
+2020-08-11 15:07:32,847 - Epoch: 13 | Epoch Time: 1m 49s
+2020-08-11 15:07:32,847 - 	Train Loss: 0.621 | Train micro-f1: 82.60% | Train mAP: 68.26%
+2020-08-11 15:07:32,847 - 	Val.  Loss: 0.753 | Val.  micro-f1: 79.08% | Val.  mAP: 67.49%
+2020-08-11 15:09:28,072 - Epoch: 14 | Epoch Time: 1m 55s
+2020-08-11 15:09:28,072 - 	Train Loss: 0.614 | Train micro-f1: 82.74% | Train mAP: 68.50%
+2020-08-11 15:09:28,072 - 	Val.  Loss: 0.741 | Val.  micro-f1: 79.95% | Val.  mAP: 67.83%
+2020-08-11 15:11:25,360 - Epoch: 15 | Epoch Time: 1m 57s
+2020-08-11 15:11:25,360 - 	Train Loss: 0.602 | Train micro-f1: 83.03% | Train mAP: 68.85%
+2020-08-11 15:11:25,360 - 	Val.  Loss: 0.724 | Val.  micro-f1: 80.00% | Val.  mAP: 68.72%
+2020-08-11 15:13:21,772 - Epoch: 16 | Epoch Time: 1m 56s
+2020-08-11 15:13:21,773 - 	Train Loss: 0.590 | Train micro-f1: 83.21% | Train mAP: 69.56%
+2020-08-11 15:13:21,773 - 	Val.  Loss: 0.737 | Val.  micro-f1: 79.86% | Val.  mAP: 68.31%
+2020-08-11 15:15:17,320 - Epoch: 17 | Epoch Time: 1m 55s
+2020-08-11 15:15:17,320 - 	Train Loss: 0.575 | Train micro-f1: 83.59% | Train mAP: 69.59%
+2020-08-11 15:15:17,376 - 	Val.  Loss: 0.725 | Val.  micro-f1: 80.18% | Val.  mAP: 68.37%
+2020-08-11 15:17:09,178 - Epoch: 18 | Epoch Time: 1m 51s
+2020-08-11 15:17:09,178 - 	Train Loss: 0.560 | Train micro-f1: 84.01% | Train mAP: 70.08%
+2020-08-11 15:17:09,178 - 	Val.  Loss: 0.744 | Val.  micro-f1: 79.56% | Val.  mAP: 68.02%
+2020-08-11 15:19:04,845 - Epoch: 19 | Epoch Time: 1m 55s
+2020-08-11 15:19:04,845 - 	Train Loss: 0.557 | Train micro-f1: 84.07% | Train mAP: 70.35%
+2020-08-11 15:19:04,845 - 	Val.  Loss: 0.747 | Val.  micro-f1: 79.95% | Val.  mAP: 67.38%
+2020-08-11 15:20:58,513 - Epoch: 20 | Epoch Time: 1m 53s
+2020-08-11 15:20:58,514 - 	Train Loss: 0.541 | Train micro-f1: 84.35% | Train mAP: 70.47%
+2020-08-11 15:20:58,514 - 	Val.  Loss: 0.733 | Val.  micro-f1: 79.88% | Val.  mAP: 67.89%
+2020-08-11 15:21:16,512 - ***************Test Set Result***************
+2020-08-11 15:21:16,513 - 	Val.  Loss: 0.697 | Val.  micro-f1: 80.78% | Val.  mAP: 67.53%
+2020-08-11 15:21:16,513 - *********************************************
+2020-08-11 16:35:39,668 - PyTorch version 1.4.0 available.
+2020-08-11 16:35:40,633 - loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/junliu/.cache/torch/transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2020-08-11 16:35:41,079 - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at /home/junliu/.cache/torch/transformers/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+2020-08-11 16:35:41,080 - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2020-08-11 16:35:42,023 - loading weights file https://cdn.huggingface.co/bert-base-uncased-pytorch_model.bin from cache at /home/junliu/.cache/torch/transformers/f2ee78bdd635b758cc0a12352586868bef80e47401abe4c4fcc3832421e7338b.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
