@@ -3,7 +3,7 @@ This repo is for code studying topic segmentation. We propose a pipeline based o
 
 The overall framework of our pipeline is shown in the figure below:
 
-![](/Users/liujun/myProject/TopicCutter/pic/my_model_arch.png)
+![](./pic/my_model_arch.png)
 
 ### Download Data
 
